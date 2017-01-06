@@ -1,0 +1,13 @@
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\obj\Debug\RGB_LED.csprojResolveAssemblyReference.cache
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\obj\Debug\Arduino8x8LedDisplay.MainForm.resources
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\obj\Debug\Arduino8x8LedDisplay.Properties.Resources.resources
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\obj\Debug\RGB_LED.csproj.GenerateResource.Cache
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\bin\Debug\Resources\Minecraftia-Regular.ttf
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\bin\Debug\Arduino8x8LedDisplay.exe.config
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\bin\Debug\Arduino8x8LedDisplay.exe
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\bin\Debug\Arduino8x8LedDisplay.pdb
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\obj\Debug\Arduino8x8LedDisplay.exe
+D:\Hamdy\UNO\New\RGB LED\Arduino8x8LedDisplay\obj\Debug\Arduino8x8LedDisplay.pdb
+D:\Hamdy\UNO\New\RGB LED\RGB_LED\bin\Debug\Arduino8x8LedDisplay.exe.config
+D:\Hamdy\UNO\New\RGB LED\RGB_LED\obj\Debug\Arduino8x8LedDisplay.exe
+D:\Hamdy\UNO\New\RGB LED\RGB_LED\obj\Debug\Arduino8x8LedDisplay.pdb
